@@ -1,0 +1,8 @@
+[*.ts]
+printWidth: 100
+parser: flow
+singleQuote: true
+
+[*.spec.ts]
+singleQuote: true
+
